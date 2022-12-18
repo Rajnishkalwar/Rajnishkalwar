@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Rajnish Prasad Kalwar.<br><br>I'm a developer, Content Writer and a Machine Learning enthusiast!<br><br>🔭 I’m currently working on Cloud Computing and Devops<br>👯 I’m looking to collaborate on creating websites and ML projects<br>🤝 I’m looking for INternship<br>🌱 I’m currently learning on Core Java and Web Development<br>💬 Ask me about Java, C++, Programming in C, Html,CSS<br>⚡ Fun fact : I write poems and quotes about love and life!
+Hi, I am Rajnish Prasad Kalwar.<br><br>I'm a developer, Content Writer and a Machine Learning enthusiast!<br><br>🔭 I’m currently working on Cloud Computing and Devops<br>👯 I’m looking to collaborate on creating websites and ML projects<br>🤝 I’m looking for Internship<br>🌱 I’m currently learning on Core Java and Web Development<br>💬 Ask me about Java, C++, Programming in C, Html,CSS<br>⚡ Fun fact : I write poems and quotes about love and life!
 
 
 ## 🌐 Socials:
