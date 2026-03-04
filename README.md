@@ -1,11 +1,11 @@
 # 💫 About Me:
 Hi, I'm Rajnish Prasad Kalwar 👋<br>
-I'm a Full Stack Developer with 1+ year of experience building production-grade web applications. Currently shipping features for Enablr ATS — an enterprise recruitment platform — at Tetris Innovations.
+I'm a Full Stack Developer with 1+ year of experience building production-grade web applications. Currently shipping features for Enablr ATS - an enterprise recruitment platform at Tetris Innovations.
 I love turning complex problems into clean, scalable systems.
 
 🔭 What I'm working on
 
-Enablr ATS — role-based dashboards, KPI drill-downs, and complex hiring workflows using Next.js (TypeScript), Node.js/Express & PostgreSQL
+Enablr ATS - role-based dashboards, KPI drill-downs, and complex hiring workflows using Next.js (TypeScript), Node.js/Express & PostgreSQL
 Exploring system design patterns and cloud-native deployments
 
 🛠 Tech Stack
@@ -15,17 +15,17 @@ DevOps & Cloud: Docker · Kubernetes · AWS S3 · Jenkins · GitHub Actions · C
 Tools: Postman · Figma · Git · MongoDB Compass
 🚀 Projects I'm proud of
 
-🧠 UDAAN — GenAI-powered mental wellness platform with voice interaction, OCR, and sentiment analysis
-📋 Enablr ATS — Enterprise recruitment platform with multi-role access and KPI dashboards
-🍔 FoodieStall — High-performance food delivery app with Redux & live Swiggy API
-💬 NovaLink — AI workplace assistant using OpenAI API for remote teams
+🧠 UDAAN - GenAI-powered mental wellness platform with voice interaction, OCR, and sentiment analysis
+📋 Enablr ATS - Enterprise recruitment platform with multi-role access and KPI dashboards
+🍔 FoodieStall - High-performance food delivery app with Redux & live Swiggy API
+💬 NovaLink - AI workplace assistant using OpenAI API for remote teams
 
 🌱 Currently learning
 System Design · AWS (Cloud Practitioner) · Advanced TypeScript
 👯 Open to collaborate on
 Full-stack web apps · GenAI integrations · Developer productivity tools
 ⚡ Fun fact
-I write poems and quotes about love and life — logic by day, poetry by night. 🌙
+I write poems and quotes about love and life - logic by day, poetry by night. 🌙
 
 
 ## 🌐 Socials:
