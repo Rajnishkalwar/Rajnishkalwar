@@ -1,5 +1,31 @@
 # 💫 About Me:
-Hi, I am Rajnish Prasad Kalwar.<br><br>I'm a developer, Content Writer and a Machine Learning enthusiast!<br><br>🔭 I’m currently working on Cloud Computing and Devops<br>👯 I’m looking to collaborate on creating websites and ML projects<br>🤝 I’m looking for Internship<br>🌱 I’m currently learning on Core Java and Web Development<br>💬 Ask me about Java, C++, Programming in C, Html,CSS<br>⚡ Fun fact : I write poems and quotes about love and life!
+Hi, I'm Rajnish Prasad Kalwar 👋
+I'm a Full Stack Developer with 1+ year of experience building production-grade web applications. Currently shipping features for Enablr ATS — an enterprise recruitment platform — at Tetris Innovations.
+I love turning complex problems into clean, scalable systems.
+
+🔭 What I'm working on
+
+Enablr ATS — role-based dashboards, KPI drill-downs, and complex hiring workflows using Next.js (TypeScript), Node.js/Express & PostgreSQL
+Exploring system design patterns and cloud-native deployments
+
+🛠 Tech Stack
+Frontend: React.js · Next.js (TypeScript) · Tailwind CSS · Redux Toolkit · React Query · Formik
+Backend: Node.js · Express.js · REST APIs · JWT Auth · PostgreSQL · MongoDB · MySQL
+DevOps & Cloud: Docker · Kubernetes · AWS S3 · Jenkins · GitHub Actions · CI/CD
+Tools: Postman · Figma · Git · MongoDB Compass
+🚀 Projects I'm proud of
+
+🧠 UDAAN — GenAI-powered mental wellness platform with voice interaction, OCR, and sentiment analysis
+📋 Enablr ATS — Enterprise recruitment platform with multi-role access and KPI dashboards
+🍔 FoodieStall — High-performance food delivery app with Redux & live Swiggy API
+💬 NovaLink — AI workplace assistant using OpenAI API for remote teams
+
+🌱 Currently learning
+System Design · AWS (Cloud Practitioner) · Advanced TypeScript
+👯 Open to collaborate on
+Full-stack web apps · GenAI integrations · Developer productivity tools
+⚡ Fun fact
+I write poems and quotes about love and life — logic by day, poetry by night. 🌙
 
 
 ## 🌐 Socials:
